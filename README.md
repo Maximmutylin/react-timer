@@ -1,1 +1,4 @@
-# Getting Started with Create React App
+# Таймер обратного отсчёта
+
+### Пет проект разработанный на React, для получения практических навыков написания кода 
+#### [Ссылка](https://maximmutylin.github.io/react-timer/)
